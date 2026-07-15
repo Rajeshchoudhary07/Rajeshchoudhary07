@@ -12,13 +12,13 @@
 - 💻 Currently building **AI/ML**, **Python**, and **Full-Stack** applications
 - 🤖 Exploring **Generative AI**, **Machine Learning**, and **Intelligent Automation**
 - 🌱 Continuously improving skills in **Python**, **Java**, **Data Structures & Algorithms**, and **Cloud Computing**
-- 📫 Reach me: **[rajeshschoudhary07@gmail.com](mailto:rajeshschoudhary07@gmail.com)**
+- 📫 Reach me: **[rajeshsanjaychoudhary07@gmail.com](mailto:rajeshsanjaychoudhary07@gmail.com)**
 
 ---
 
 ## 🤝 **Let's Connect**
 <p align="left">
-<a href="mailto:rajeshschoudhary07@gmail.com" target="_blank" style="text-decoration:none; margin-right:15px;">
+<a href="mailto:rajeshsanjaychoudhary07@gmail.com" target="_blank" style="text-decoration:none; margin-right:15px;">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 <a href="https://www.linkedin.com/in/rajesh-choudhary-357048319" target="_blank" style="text-decoration:none; margin-right:15px;">
