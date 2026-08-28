@@ -194,27 +194,9 @@
 </tr>
 </table>
 
----
-
-## 🧮 **LeetCode Stats**
-<table>
-<tr>
-<td>
-<b>LeetCode — <a href="https://leetcode.com/u/RajeshChoudhary2006/">RajeshChoudhary2006</a></b><br/>
-<a href="https://leetcode.com/u/RajeshChoudhary2006/">
-  <img src="https://leetcard.jacoblin.cool/RajeshChoudhary2006?theme=dark&font=Nunito&ext=heatmap" height="220px"/>
-</a>
-</td>
-</tr>
-</table>
 
 
-## 📈 **Contribution Graph**
-<div align="center">
-  
-[![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajeshchoudhary07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
+
 
 ---
 
