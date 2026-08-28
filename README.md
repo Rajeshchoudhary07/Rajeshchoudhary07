@@ -177,23 +177,6 @@
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 
----
-
-## 📊 **GitHub Stats**
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Rajeshchoudhary07&show_icons=true&theme=highcontrast" height="180px"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajeshchoudhary07&layout=compact&theme=highcontrast" height="180px"/>
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeshchoudhary07&theme=highcontrast" height="180px"/>
-</td>
-</tr>
-</table>
-
 
 
 
