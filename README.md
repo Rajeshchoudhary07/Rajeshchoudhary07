@@ -241,7 +241,20 @@
 - Requirement Analysis
 - Continuous Learning
 
+## 🧩 LeetCode & Problem Solving
 
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://leetcard.jacoblin.cool/RajeshChoudhary2006?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+- 🧠 Practicing **Data Structures & Algorithms (DSA)**.
+- 💻 Solving coding problems using **Java and Python**.
+- 🎯 Improving problem-solving skills, algorithmic thinking, and coding efficiency.
+- 📈 Consistently learning and strengthening core computer science fundamentals.
+
+🔗 **[Visit My LeetCode Profile](https://leetcode.com/u/RajeshChoudhary2006/)**
 
 ---
 
