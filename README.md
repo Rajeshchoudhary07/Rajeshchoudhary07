@@ -8,10 +8,15 @@
 [![GitHub followers](https://img.shields.io/github/followers/Rajeshchoudhary07)](https://github.com/Harshal-25C?tab=followers)
 
 </div>
+## 👨‍💻 About Me
 
-- 💻 Currently building **AI/ML**, **Python**, and **Full-Stack** applications
-- 🤖 Exploring **Generative AI**, **Machine Learning**, and **Intelligent Automation**
-- 🌱 Continuously improving skills in **Python**, **Java**, **Data Structures & Algorithms**, and **Cloud Computing**
+- 🎓 Final-year **Computer Science and Engineering** student pursuing a B.Tech degree.
+- 💻 Currently building **AI/ML, Python, and Full-Stack applications**.
+- 🤖 Exploring **Generative AI, Machine Learning, and Intelligent Automation**.
+- 🛠️ Strong foundation in **Software Engineering, OOP, Data Structures & Algorithms, and Problem-Solving**.
+- 🚀 Hands-on experience in **Python, Java, SQL, REST APIs, Backend Development, and Git** through internships and real-world projects.
+- 🌱 Continuously improving technical skills and exploring new technologies to build **reliable, scalable, and high-quality software solutions**.
+- 🎯 Seeking opportunities as a **Software Engineering Intern** to contribute to real-world projects and grow as a software engineer.
 - 📫 Reach me: **[rajeshsanjaychoudhary07@gmail.com](mailto:rajeshsanjaychoudhary07@gmail.com)**
 
 ---
@@ -33,47 +38,46 @@
 
 ---
 
-## 🏢 **Experience**      
+## 🏢 **Work Experience**
 
-### 👨‍💻 AI Software Developer Intern
+### 👨‍💻 AI Software Developer Intern (Full Stack)
 **Skroman Switches Pvt. Ltd., Pune**  
 **February 2026 – July 2026**
 
-- Successfully completed a **6-month onsite internship** focused on AI software development and intelligent automation.
-- Worked on **data collection, preprocessing, AI/ML model development, testing, and deployment**.
-- Assisted in **software development**, research on Artificial Intelligence technologies, and live project implementation.
-- Collaborated with the technical team to develop AI-powered solutions for real-world applications.
+- Designed and developed software solutions using **Python, JavaScript, Flask, ReactJS, and REST APIs**, applying software engineering principles and the SDLC.
+- Built backend functionality and integrated **MySQL** to support CRUD operations, SQL queries, data validation, and API-based communication.
+- Applied **Object-Oriented Programming (OOP), data structures, modular programming, and software design principles** to develop maintainable code.
+- Participated in code reviews, debugging, troubleshooting, unit testing, and functional testing to improve software reliability.
+- Collaborated with cross-functional teams using **Git and GitHub**, documenting code and learning new technologies to deliver software features.
 
-> ▶️ Technical Skills & Learning:
-- Python, Java, HTML, CSS
-- Machine Learning, Supervised Learning
-- Scikit-learn, NumPy, Pandas
-- Data Collection & Preprocessing
+> ▶️ **Technical Skills & Learning:**
+- Python, JavaScript, ReactJS
 - Flask, REST APIs
-- Git & GitHub
-- Jupyter Notebook
+- MySQL, SQL, CRUD Operations
+- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- AI Research & Model Evaluation
+- Software Development Life Cycle (SDLC)
+- Debugging, Unit Testing & Functional Testing
+- Git & GitHub
 
 ---
 
-### 🤖 AIML Intern
+### 🤖 AI/ML Intern
 **Skroman Switches Pvt. Ltd., Pune**  
 **May 2025 – July 2025**
 
-- Completed a **2.5-month onsite internship** in Artificial Intelligence & Machine Learning.
-- Built practical knowledge in **AI/ML model development, data preprocessing, and intelligent system research**.
-- Assisted in website development and supported ongoing AI-based live projects.
-- Worked closely with mentors on implementing AI solutions for smart automation.
+- Developed and evaluated **3 Machine Learning models** using Python, Scikit-learn, NumPy, and Pandas.
+- Automated data preprocessing for **1,000+ records** using Python and SQL, improving data consistency and reducing manual effort.
+- Performed model testing, validation, error analysis, and debugging to improve solution reliability.
+- Collaborated with cross-functional teams to understand requirements, implement solutions, and document results.
 
-> ▶️ Technical Skills & Learning:
+> ▶️ **Technical Skills & Learning:**
 - Python Programming
-- Machine Learning Fundamentals
-- Data Cleaning & Feature Engineering
-- Scikit-learn
-- NumPy & Pandas
-- AI Research
-- Website Development Support
+- Machine Learning & Model Evaluation
+- Scikit-learn, NumPy & Pandas
+- Data Preprocessing & Feature Engineering
+- SQL & Data Analysis
+- Debugging & Problem-Solving
 - Git & Version Control
 
 ---
@@ -82,16 +86,16 @@
 **CodSoft**  
 **October 2024**
 
-- Completed a **4-week virtual internship** in Python Programming.
-- Developed practical Python applications while strengthening programming fundamentals.
-- Improved problem-solving skills by completing real-world programming tasks.
+- Developed **2 Python applications** using OOP, data structures, algorithms, and modular programming.
+- Applied exception handling, input validation, debugging, and testing to improve code quality and application reliability.
 
-> ▶️ Technical Skills:
+> ▶️ **Technical Skills:**
 - Python
 - Object-Oriented Programming
-- File Handling
+- Data Structures & Algorithms
 - Functions & Modules
-- Problem Solving
+- Exception Handling & Input Validation
+- Debugging & Problem-Solving
 
 ---
 
@@ -99,85 +103,143 @@
 **Oasis Infobyte**  
 **August 2024 – September 2024**
 
-- Successfully completed a **1-month virtual internship** focused on Python development.
-- Built mini-projects and gained hands-on experience in writing clean and efficient Python code.
+- Implemented Python application features using data structures, functions, and exception handling while following clean coding practices.
+- Tested functionality, troubleshot errors, and applied systematic debugging and problem-solving to resolve implementation issues.
 
-> ▶️ Technical Skills:
-- Python
-- Data Structures
-- Algorithms
-- Debugging
-- Logical Thinking
+> ▶️ **Technical Skills:**
+- Python Programming
+- Data Structures & Algorithms
+- Functions & Exception Handling
+- Clean Coding Practices
+- Software Testing & Debugging
+- Logical Thinking & Problem-Solving
 
-## 🏆 **Badges & Certifications**
+## 🏆 Badges & Certifications
 
-- 🥇 **IBM – Artificial Intelligence Fundamentals**  
-  🔗 https://www.credly.com/badges/32d6fd59-a34a-4c6a-8a76-e2ffbce332f4
+### 💻 Software Development & Programming
+- 🏅 **Junior Software Developer** — Skill India Digital Hub
+- ☕ **Java Programming for Beginners** — IBM | Coursera
+- 🚀 **Introduction to Software Development** — Coursera
 
-- ☕ **IBM – Java Programming for Beginners**  
-  🔗 https://coursera.org/share/891c4fc077f5e0d41f20963e9a7abe62
+### 🤖 Artificial Intelligence & Machine Learning
+- 🧠 **AI & Machine Learning Engineer** — Skill India Digital Hub
+- 🏅 **Artificial Intelligence Fundamentals** — IBM
+- ☁️ **AI & Machine Learning** — Microsoft Learn
+- 🌐 **Generative AI** — Google Cloud Skills Boost
+- ✨ **Prompt Engineering for ChatGPT** — Coursera
+- 🇮🇳 **AI For India 2.0** — GUVI
 
-- 🤖 **GUVI – AI For India 2.0**  
-  🔗 https://www.guvi.in/share-certificate/30109824VaAx3dc63i
+### 🧬 Generative AI & Agentic AI
+- 🔍 **Retrieval-Augmented Generation (RAG) with Embeddings & Vector Databases** — Coursera
+- 🤖 **AI Agents and Agentic AI with Python & Generative AI** — Coursera
 
-- ☁️ **Google Cloud Skills Boost – Generative AI**  
-  🔗 https://www.cloudskillsboost.google/public-profiles/12e765cb-b3a8-460e-bc6b-71466af522ec
+### ☁️ Cloud Computing
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — Oracle
 
-- 🧠 **Microsoft Learn – AI & Machine Learning**  
-  🔗 https://learn.microsoft.com/en-us/users/rajeshchoudhary-3136/badges-section
-
-- 🎓 **Skill India Digital Hub – AI Machine Learning Engineer**  
-  🔗 https://api-fe.skillindiadigital.gov.in/api/registry-course/getCertificatePresignedUrl/2024090274170389-500a3626-4c71-499d-a3c0-b5617c9f30b8
-
-- 💻 **Skill India Digital Hub – Junior Software Developer**  
-  🔗 https://api-fe.skillindiadigital.gov.in/api/registry-course/getCertificatePresignedUrl/2024090274170389-8b8b1f30-4d66-4b1c-ada3-10175417e8ff
-
-- ☁️ **Oracle Cloud Infrastructure 2025 – Certified AI Foundations Associate**
 ---
+
+### 📊 Certification Highlights
+
+![Certifications](https://img.shields.io/badge/Certifications-12-blue?style=for-the-badge&logo=google-scholar)
+![AI%2FML](https://img.shields.io/badge/Focus-AI%2FML-purple?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Focus-Generative%20AI-orange?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Focus-Cloud%20Computing-blue?style=for-the-badge)
+
+**Areas of Learning:** Software Development • Java • Python • Artificial Intelligence • Machine Learning • Generative AI • RAG • AI Agents • Prompt Engineering • Cloud Computing
 
 ## 💻 **Tech Stack**
 
-### Programming Languages
+### 🚀 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
-### AI / Machine Learning
+**Also familiar with:** SQL
+
+### 🏗️ Software Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,git,github" />
+</p>
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Software Development Life Cycle (SDLC)
+- Software Design Principles
+- Modular Programming
+- Problem-Solving
+
+### ⚙️ Frameworks & Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,flask,react" />
+</p>
+
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- Flask
+- ReactJS
+- REST APIs
+- Backend Development
+- CRUD Operations
+
+### 🧪 Software Development & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=pytest,java,python" />
+</p>
+
+- Debugging & Troubleshooting
+- Unit Testing (JUnit, Pytest)
+- Exception Handling
+- Code Quality
+- Software Testing
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+- MySQL
+- SQLite
+- SQL Queries
+- Relational Database Design
+
+### 🤖 AI / Machine Learning & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
-### Web Development
+- Scikit-learn
+- Pandas
+- NumPy
+- Data Preprocessing
+- Machine Learning
+
+### 🛠️ Tools & Development Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
 </p>
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+- Git & GitHub
+- Version Control
+- VS Code
+- Jupyter Notebook
+- Code Documentation
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-</p>
-
-### Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=jupyter" />
-</p>
-
-### Cloud
+### ☁️ Cloud & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=azure,gcp" />
 </p>
 
-### Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
+- Microsoft Azure
+- Google Cloud Platform
 
-
+### 🤝 Collaboration & Professional Skills
+- Code Reviews
+- Cross-Functional Collaboration
+- Teamwork
+- Technical Documentation
+- Requirement Analysis
+- Continuous Learning
 
 
 
