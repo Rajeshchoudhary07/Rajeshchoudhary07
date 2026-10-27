@@ -1,13 +1,38 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" /> I'm Rajesh Choudhary 👨‍💻</h1>
+<!-- ===================== HEADER ===================== -->
 
-<h3 align="center">Final-Year B.Tech CSE (AI & ML) Student 🎓 | Aspiring AI & Software Engineer 👨‍💻</h3>
+<h1 align="center">
+  Hi there
+  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" />
+  I'm Rajesh Choudhary 👨‍💻
+</h1>
+
+<h3 align="center">
+  Final-Year B.Tech CSE Student 🎓 | Aspiring Software Engineer & AI/ML Developer 🚀
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+AI%2FML;Python+%7C+Java+%7C+Full-Stack+Development;Data+Structures+%26+Algorithms;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
+</p>
+
+<!-- ===================== PROFILE BADGES ===================== -->
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rajeshchoudhary07&label=Profile%20views&color=blueviolet&style=plastic)
-[![GitHub followers](https://img.shields.io/github/followers/Rajeshchoudhary07)](https://github.com/Harshal-25C?tab=followers)
+  <img src="https://komarev.com/ghpvc/?username=Rajeshchoudhary07&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+  <a href="https://github.com/Rajeshchoudhary07?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rajeshchoudhary07?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  </a>
+
+  <a href="https://github.com/Rajeshchoudhary07">
+    <img src="https://img.shields.io/github/stars/Rajeshchoudhary07?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-success?style=for-the-badge" alt="Software Engineering" />
 
 </div>
+
+<br/>
 ## 👨‍💻 About Me
 
 - 🎓 Final-year **Computer Science and Engineering** student pursuing a B.Tech degree.
